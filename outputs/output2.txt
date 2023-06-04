@@ -1,0 +1,102 @@
+
+***************** Hirshberg *****************
+
+Lengths 1000 X 10
+Memory usage: 1179 MB
+CPU time (system) used: 0.000141 seconds
+CPU time (user) used: 0.009883 seconds
+Elapsed time: 0.010206 seconds
+
+Lengths 1000000 X 10
+Memory usage: 10829 MB
+CPU time (system) used: 0.01623 seconds
+CPU time (user) used: 3.63907 seconds
+Elapsed time: 3.67123 seconds
+
+Lengths 2000000 X 10
+Memory usage: 18579 MB
+CPU time (system) used: 0.015673 seconds
+CPU time (user) used: 7.26977 seconds
+Elapsed time: 7.28978 seconds
+
+Lengths 5000000 X 10
+Memory usage: 41910 MB
+CPU time (system) used: 0.024692 seconds
+CPU time (user) used: 18.1171 seconds
+Elapsed time: 18.1752 seconds
+
+Lengths 10000000 X 10
+Memory usage: 106037 MB
+CPU time (system) used: 0.261759 seconds
+CPU time (user) used: 38.7645 seconds
+Elapsed time: 40.3257 seconds
+
+Lengths 20000000 X 10
+Memory usage: 165543 MB
+CPU time (system) used: 0.168584 seconds
+CPU time (user) used: 73.6928 seconds
+Elapsed time: 74.0448 seconds
+
+Lengths 50000000 X 10
+Memory usage: 349126 MB
+CPU time (system) used: 0.769054 seconds
+CPU time (user) used: 186.984 seconds
+Elapsed time: 191.149 seconds
+
+Lengths 100000000 X 10
+Memory usage: 647757 MB
+CPU time (system) used: 1.64713 seconds
+CPU time (user) used: 376.979 seconds
+Elapsed time: 383.9 seconds
+
+************** Needleman-Wunsch **************
+
+Lengths 1000 X 10
+Memory usage: 1146 MB
+CPU time (system) used: 4e-06 seconds
+CPU time (user) used: 0.000583 seconds
+Elapsed time: 0.000586 seconds
+
+Lengths 1000000 X 10
+Memory usage: 82755 MB
+CPU time (system) used: 0.007153 seconds
+CPU time (user) used: 0.573507 seconds
+Elapsed time: 0.580642 seconds
+
+Lengths 2000000 X 10
+Memory usage: 164265 MB
+CPU time (system) used: 0.014331 seconds
+CPU time (user) used: 1.14726 seconds
+Elapsed time: 1.16155 seconds
+
+Lengths 5000000 X 10
+Memory usage: 409075 MB
+CPU time (system) used: 0.045148 seconds
+CPU time (user) used: 2.8706 seconds
+Elapsed time: 2.91567 seconds
+
+Lengths 10000000 X 10
+Memory usage: 797491 MB
+CPU time (system) used: 0.176347 seconds
+CPU time (user) used: 5.77192 seconds
+Elapsed time: 6.06143 seconds
+
+Lengths 20000000 X 10
+Memory usage: 1186611 MB
+CPU time (system) used: 0.647195 seconds
+CPU time (user) used: 11.5981 seconds
+Elapsed time: 12.6514 seconds
+
+Lengths 50000000 X 10
+Memory usage: 1411432 MB
+CPU time (system) used: 2.11706 seconds
+CPU time (user) used: 29.0987 seconds
+Elapsed time: 32.6011 seconds
+
+Lengths 100000000 X 10
+Memory usage: 2096660 MB
+CPU time (system) used: 5.72262 seconds
+CPU time (user) used: 58.5028 seconds
+Elapsed time: 78.4444 seconds
+
+Done

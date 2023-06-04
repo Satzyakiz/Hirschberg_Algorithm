@@ -1,0 +1,14 @@
+
+***************** Hirshberg *****************
+
+Unary String 1 50KB X Unary String 1 50KB
+Memory usage: 2539 MB
+CPU time (system) used: 0.406783 seconds
+CPU time (user) used: 135.573 seconds
+Elapsed time: 138.483 seconds
+
+Unary String 1 50KB X Unary String 0 50KB
+Memory usage: 2441 MB
+CPU time (system) used: 0.536364 seconds
+CPU time (user) used: 135.928 seconds
+Elapsed time: 141.189 seconds

@@ -1,0 +1,78 @@
+
+***************** Hirshberg *****************
+
+DNA Sequence 1 24KB X DNA Sequence 2 24KB
+Memory usage: 2064 MB
+CPU time (system) used: 0.048999 seconds
+CPU time (user) used: 33.0361 seconds
+Elapsed time: 33.2253 seconds
+
+DNA Sequence 1 24KB X DNA Sequence 1 24KB
+Memory usage: 1835 MB
+CPU time (system) used: 0.338349 seconds
+CPU time (user) used: 33.5587 seconds
+Elapsed time: 36.5232 seconds
+
+Protein Sequence 1 24KB X Protein Sequence 2 24KB
+Memory usage: 2228 MB
+CPU time (system) used: 0.063329 seconds
+CPU time (user) used: 33.1864 seconds
+Elapsed time: 33.7919 seconds
+
+Protein Sequence 1 24KB X Protein Sequence 1 24KB
+Memory usage: 2113 MB
+CPU time (system) used: 0.048081 seconds
+CPU time (user) used: 30.8536 seconds
+Elapsed time: 31.1133 seconds
+
+Random String 1 24KB X Random String 2 24KB
+Memory usage: 2949 MB
+CPU time (system) used: 0.067361 seconds
+CPU time (user) used: 30.7029 seconds
+Elapsed time: 30.8205 seconds
+
+Random String 1 24KB X Random String 1 24KB
+Memory usage: 2211 MB
+CPU time (system) used: 0.071629 seconds
+CPU time (user) used: 30.8025 seconds
+Elapsed time: 31.0499 seconds
+
+************** Needleman-Wunsch **************
+
+DNA Sequence 1 24KB X DNA Sequence 2 24KB
+Memory usage: 603930 MB
+CPU time (system) used: 0.821757 seconds
+CPU time (user) used: 24.4678 seconds
+Elapsed time: 26.2172 seconds
+
+DNA Sequence 1 24KB X DNA Sequence 1 24KB
+Memory usage: 865992 MB
+CPU time (system) used: 0.753927 seconds
+CPU time (user) used: 21.3909 seconds
+Elapsed time: 23.0614 seconds
+
+Protein Sequence 1 24KB X Protein Sequence 2 24KB
+Memory usage: 685113 MB
+CPU time (system) used: 0.741272 seconds
+CPU time (user) used: 23.4196 seconds
+Elapsed time: 25.0348 seconds
+
+Protein Sequence 1 24KB X Protein Sequence 1 24KB
+Memory usage: 724008 MB
+CPU time (system) used: 0.738101 seconds
+CPU time (user) used: 21.4411 seconds
+Elapsed time: 23.2903 seconds
+
+Random String 1 24KB X Random String 2 24KB
+Memory usage: 620249 MB
+CPU time (system) used: 0.86319 seconds
+CPU time (user) used: 21.7548 seconds
+Elapsed time: 24.3318 seconds
+
+Random String 1 24KB X Random String 1 24KB
+Memory usage: 964837 MB
+CPU time (system) used: 0.767917 seconds
+CPU time (user) used: 21.42 seconds
+Elapsed time: 22.9863 seconds
+
+Done
